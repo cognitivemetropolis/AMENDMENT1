@@ -1,0 +1,11 @@
+Log notice file /var/log/tor/notices.log
+VirtualAddrNetwork 10.192.0.0/10
+AutomapHostsSuffixes .onion,.exit
+AutomapHostsOnResolve 1
+TransPort 9040
+TransListenAddress 192.168.42.1
+DNSPort 53
+DNSListenAddress 192.168.42.1
+ControlPort 9051
+HashedControlPassword 16:003E84626077AE8A60BBFDD4E74D712E732BFE8333A060BB474277C5F1
+CookieAuthentication 1
